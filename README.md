@@ -1,4 +1,4 @@
-##**📊 Project Overview**
+##📊 Project Overview
 
 This project focuses on predicting whether an individual's income exceeds or it is below 50K annually based on demographic and work-related features, using the Adult Census Income dataset from the UCI Machine Learning Repository.
 
